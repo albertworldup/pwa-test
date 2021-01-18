@@ -18,7 +18,7 @@ function App() {
           <>Back</>
         </Route>
         <Route exact path="/test">
-          <>Test</>
+          <>Test2</>
         </Route>
       </Switch>
     </Router>
